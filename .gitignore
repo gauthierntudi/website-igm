@@ -1,0 +1,6 @@
+# Build & deps
+/.next/
+/node_modules/
+
+# cPanel uniquement — contient `/igm`, ne pas pousser sur Vercel
+/cpanel-basepath.txt
